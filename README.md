@@ -1,0 +1,2 @@
+# moduleC
+Test module C!

@@ -1,0 +1,23 @@
+{
+  "name": "moduleC",
+  "version": "1.0.0",
+  "description": "Test module C!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelboukara/moduleC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelboukara/moduleC/issues"
+  },
+  "homepage": "https://github.com/raphaelboukara/moduleC#readme",
+  "dependencies": {
+    "moduleA": "github:raphaelboukara/moduleA#v2"
+  }
+}
